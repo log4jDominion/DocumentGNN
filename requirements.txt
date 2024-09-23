@@ -1,0 +1,5 @@
+torch           # PyTorch for deep learning and neural network modeling
+torch-geometric  # PyTorch Geometric for GNNs
+transformers    # Hugging Face's Transformers library for BERT embeddings
+scikit-learn     # For cosine similarity (used in building the document graph)
+numpy           # For numerical operationsx
